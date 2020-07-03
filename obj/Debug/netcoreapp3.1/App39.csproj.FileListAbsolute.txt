@@ -1,0 +1,11 @@
+C:\Users\sergi\source\repos\App39\bin\Debug\netcoreapp3.1\App39.exe
+C:\Users\sergi\source\repos\App39\bin\Debug\netcoreapp3.1\App39.deps.json
+C:\Users\sergi\source\repos\App39\bin\Debug\netcoreapp3.1\App39.runtimeconfig.json
+C:\Users\sergi\source\repos\App39\bin\Debug\netcoreapp3.1\App39.runtimeconfig.dev.json
+C:\Users\sergi\source\repos\App39\bin\Debug\netcoreapp3.1\App39.dll
+C:\Users\sergi\source\repos\App39\bin\Debug\netcoreapp3.1\App39.pdb
+C:\Users\sergi\source\repos\App39\obj\Debug\netcoreapp3.1\App39.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\App39\obj\Debug\netcoreapp3.1\App39.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\App39\obj\Debug\netcoreapp3.1\App39.AssemblyInfo.cs
+C:\Users\sergi\source\repos\App39\obj\Debug\netcoreapp3.1\App39.dll
+C:\Users\sergi\source\repos\App39\obj\Debug\netcoreapp3.1\App39.pdb
